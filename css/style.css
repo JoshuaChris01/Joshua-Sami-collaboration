@@ -1,0 +1,37 @@
+#main{
+    text-align: center;
+}
+
+#title{
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#img-div {
+    margin: 50px 0;
+    text-align: center;
+}
+
+#image{
+    max-width: 100%;
+    max-height: 400px;
+    display: inline-block;
+}
+
+#img-caption{
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+#tribute-info{
+    font-size: 18px;
+    text-align: justify;
+    margin: 50px 0;
+}
+
+#tribute-link{
+    font-size: 18px;
+    margin-top: 50px;
+    display: block;
+}
